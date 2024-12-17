@@ -28,4 +28,4 @@ I'm a student developer, still finding my niche.
 
 
 ## 🛠 Skills
-Java, Python, HTML, CSS
+Java, Python, HTML, CSS, JavaScript, PHP, Laravel
