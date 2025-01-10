@@ -14,18 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Ali Yassin! 👋
-
-
-## 🚀 About Me
+## About Me
 I'm a student developer, still finding my niche.
+I’m currently working on a Univeresity projects
 
-
-## 🔗 Links
+## Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali13yassin/)
 
 
 
-## 🛠 Skills
+## Skills
 Java, Python, HTML, CSS, JavaScript, PHP, Laravel
