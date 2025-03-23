@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About Me
 I'm a student developer, still finding my niche.
-I’m currently working on Univeresity projects
+I’m currently working on University projects
 
 ## Links
 
